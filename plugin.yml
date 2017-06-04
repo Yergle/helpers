@@ -1,0 +1,9 @@
+main: me.fudged.helpers.Main
+author: Fudged
+name: Helpers
+version: 1.0
+commands:
+  helpers:
+    usage: /<command>
+    description: Basic Helpers Command
+    alias: [h]
